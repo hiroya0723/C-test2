@@ -10,7 +10,7 @@ namespace gittest3
     {
         static void Main(string[] args)
         {
-            Console.Write("tedgdgergtesrgtse\n");
+            Console.Write("tedyaetaetyyyyyyyyyy\n");
         }
     }
 }
